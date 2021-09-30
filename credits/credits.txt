@@ -14,5 +14,5 @@ Google Chrome (Google, google.com)
 Файлы (CyanogenMod, сейчас LineageOS, lineageos.org)
 Калькулятор (Google, google.com) 
 
-Автор проекта: FatlessComb1168 для l-lacker.ru.
+Автор проекта: FatlessComb1168 для l-lacker.ru в 2018 году.
 Проект создан на некоммерческой основе.
